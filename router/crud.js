@@ -6,13 +6,14 @@ const protected = require('../middleware/authMiddleware')
 
 //fetch all note
 router.get("/getNotes",protected, (req, res) => {
-    Notescheme.find() 
-    .then(data=>{
-        res.json({data})
-    })
-    .catch(err=>{
-        console.log(err)
-    })
+    
+        Notescheme.find({postedBy:req.user._id}).populate("postedBy","_id note").then(
+            datas =>{
+                res.json({datas})
+            }
+        ).catch(err=>{
+            console.log(err)
+        })
 });
 
 //create note
@@ -20,7 +21,8 @@ router.get("/getNotes",protected, (req, res) => {
 router.post('/newNote',protected,(req,res)=>{
     const {note} = req.body
     const createNote = new Notescheme({
-        note
+        note,
+        postedBy:req.user
     })
     createNote.save().then(result=>{
         res.json({createNote:result})
