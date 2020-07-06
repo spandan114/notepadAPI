@@ -52,6 +52,14 @@
 
 ## Delete Note
 
-<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/deletenote1.png" >
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/deletenote.png" >
 
 <img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/deletenote2.png" >
+
+## Contactme
+
+#### Portfolio:- https://spandan114.github.io/spandanjoshi-portfolio/
+#### Email :- spandanj685@gmail.com
+#### Mob :- 9348982470
+
+#### Also checkout my other git ripos
