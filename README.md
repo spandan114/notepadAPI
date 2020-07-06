@@ -21,3 +21,37 @@
 ## Protected Routes
 
 <img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/1.png" >
+
+## Register
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/2.png" >
+
+## Login
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/3.png" >
+
+## Database
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/db1.png" >
+
+## Create Note
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/newnote.png" >
+
+## Get all notes of a specific user
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/getallnote.png" >
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/db2.png" >
+
+## Edit Note
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/edit 1.png" >
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/edit 2.png" >
+
+## Delete Note
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/deletenote1.png" >
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/deletenote2.png" >
