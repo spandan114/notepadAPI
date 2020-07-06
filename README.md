@@ -1,7 +1,7 @@
 <img src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/welcome_cats_thqn.svg" >
 
 # notepadAPI
-### Technology used :- Node.js,Express,jsonwebtoken,Mongodb,bcryptjs
+### Technology used :- Node.js ,Express.js ,jsonwebtoken ,Mongodb ,bcryptjs ,Postman , VScode
 ## step 1
     npm install
 ## step 2
