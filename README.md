@@ -12,8 +12,12 @@
 ## Routes
     register :- http://localhost:5000/register
     login    :- http://localhost:5000/login
+    PROTECTED ROUTES
     get all notes :- http://localhost:5000/getNotes  
     create notes :- http://localhost:5000/newNotes  
     edit notes :- http://localhost:5000/editNotes/id  
     delete notes :- http://localhost:5000/deleteNotes/id  
-    
+   
+## Protected Routes
+
+<img src="https://raw.githubusercontent.com/spandan114/notepadAPI/master/images/1.png" >
