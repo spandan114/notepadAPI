@@ -21,10 +21,13 @@ mongoose
 
   require('./models/user')
 
+  require('./models/nestedModel')
+
 // Register All Route Here
 
 app.use('/', require('./router/crud'))
 app.use('/', require('./router/auth'))
+app.use('/', require('./router/nestedarray'))
 
 app.get("/", (req, res) => {
   res.send("Server working");
